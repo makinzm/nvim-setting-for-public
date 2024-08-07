@@ -1,7 +1,7 @@
 require("josean.plugins-setup")
 require("josean.core.options")
 require("josean.core.keymaps")
-require("josean.core.colorscheme")
+-- require("josean.core.colorscheme")
 require("josean.plugins.comment")
 require("josean.plugins.nvim-tree")
 require("josean.plugins.lualine")
